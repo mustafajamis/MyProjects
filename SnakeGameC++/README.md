@@ -1,2 +1,4 @@
 # Snake Game Project (C++):
 Developed a classic Snake game using C++ that demonstrates strong programming fundamentals, object-oriented design, and algorithmic thinking. Leveraged the console interface to create an engaging and interactive gaming experience. Implemented core gameplay mechanics such as snake movement, collision detection, and scoring system. Utilized features like dynamic memory allocation, user input handling, and time-based animation. Employed version control for code management and maintained clear, well-structured code for readability and maintainability. Practiced debugging and troubleshooting skills to refine the game and ensure optimal functionality.
+# Free Feel to look at the code and write your own game!
+![image](https://github.com/mustafajamis/MyProjects/assets/39936262/bd11fb4c-ee68-42c7-ae6b-5c373e978d5f)
